@@ -1,5 +1,4 @@
-function generateMatrix() {
-    const size = 500;
+function generateMatrix(size) {
     const matrix = [];
   
     for (let lin = 0; lin < size; lin++) {
